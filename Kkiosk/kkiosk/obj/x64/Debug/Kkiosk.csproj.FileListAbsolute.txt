@@ -1,0 +1,17 @@
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\CefSharp.dll
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\CefSharp.WinForms.xml
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\CefSharp.xml
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\Kkiosk.csproj.AssemblyReference.cache
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\BasicBrowser.kkiosk.resources
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\Kkiosk.csproj.GenerateResource.cache
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\Kkiosk.csproj.CoreCompileInputs.cache
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\Kkiosk.csproj.CopyComplete
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\Kkiosk.exe.config
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\Kkiosk.exe
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\x64\Debug\Kkiosk.pdb
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\kkiosk.Properties.Resources.resources
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\Kkiosk.exe
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\x64\Debug\Kkiosk.pdb

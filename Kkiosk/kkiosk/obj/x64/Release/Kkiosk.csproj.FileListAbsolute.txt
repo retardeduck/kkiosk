@@ -1,0 +1,17 @@
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\Kkiosk.exe.config
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\Kkiosk.exe
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\Kkiosk.pdb
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\CefSharp.Core.dll
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\CefSharp.dll
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\CefSharp.WinForms.dll
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\CefSharp.WinForms.xml
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\CefSharp.xml
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\bin\x64\Release\CefSharp.Core.xml
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\Kkiosk.csproj.AssemblyReference.cache
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\BasicBrowser.kkiosk.resources
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\kkiosk.Properties.Resources.resources
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\Kkiosk.csproj.GenerateResource.cache
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\Kkiosk.csproj.CoreCompileInputs.cache
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\Kkiosk.csproj.CopyComplete
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\Kkiosk.exe
+C:\Users\kissk\Documents\Repos_to_push\Kkiosk\kkiosk\obj\x64\Release\Kkiosk.pdb

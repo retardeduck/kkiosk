@@ -1,0 +1,10 @@
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\Debug\BasicBrowser.exe.config
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\Debug\BasicBrowser.exe
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\bin\Debug\BasicBrowser.pdb
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.csproj.AssemblyReference.cache
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.Basicbrowser.resources
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.Properties.Resources.resources
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.csproj.GenerateResource.cache
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.csproj.CoreCompileInputs.cache
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.exe
+C:\Users\kissk\Documents\Repos_to_push\BasicBrowser\BasicBrowser\obj\Debug\BasicBrowser.pdb
